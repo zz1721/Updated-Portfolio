@@ -55,14 +55,16 @@
     color: black;
 }
 
-/* #reaLlink {
+#reaLlink {
     margin-top: 1em;
     width: 100%;
-    text-align: center;
+    text-align: initial;
     word-spacing: 3em;
     line-height: 120%;
     border-bottom: 2px solid #cccccc;
-} */
+    font-style: italic;
+    font-family: 'Goudy Bookletter 1911', serif;
+}
 
 .main-section {
  align-content: center;
