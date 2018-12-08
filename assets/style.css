@@ -1,0 +1,157 @@
+/* This is the top header CSS */
+#headerOne {
+    text-align: center;
+}
+
+#firstHeader {
+    margin: 1em;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 7em;
+    color: black;
+
+}
+
+/* This is CSS for the Links */
+#linkBox {
+    width: 100%;
+    text-align: center;
+    word-spacing: 3em;
+    line-height: 120%;
+    border-bottom: 2px solid #cccccc;
+}
+
+#index {
+    color: black;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 3em;
+    
+}
+
+#contact {
+    color: black;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 3em;
+    
+}
+
+#portfolio {
+    color: black;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 3em;
+    
+}
+
+/* About Me section CSS */
+#main-container {
+    padding-top: 130px;
+    min-height: calc(100vh - 70px); 
+    color: #cccccc;
+    background-image: url("http://wordfromabird.com/wp-content/uploads/matt-duncan-127528-unsplash.jpg")
+  }
+
+#aboutMe {
+    font-size: 2em;
+    text-align: initial;
+    color: black;
+}
+
+/* #reaLlink {
+    margin-top: 1em;
+    width: 100%;
+    text-align: center;
+    word-spacing: 3em;
+    line-height: 120%;
+    border-bottom: 2px solid #cccccc;
+} */
+
+.main-section {
+ align-content: center;
+  width: 100%;
+  max-width: 900px;
+  padding: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #ffffff;
+  opacity: .8;
+  border: 1px solid #dddddd;
+  font-family: 'Goudy Bookletter 1911', serif;
+  font-size: 1.5em;
+}
+
+#image {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+    opacity: 1;
+}
+
+.aboutMeparagraphs {
+    text-align: initial;
+    color: black;
+    opacity: 1;
+}
+
+/* CSS for Portfolio Body */
+#portfolio-header {
+    margin-top: 1em;
+    font-family: 'Goudy Bookletter 1911', serif;
+}
+
+.example {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
+    font-family: 'Goudy Bookletter 1911', serif;
+}
+
+.example:nth-child(even) {
+    margin-right: 40px;
+  }
+
+.example button {
+    position: sticky;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #ffffff;
+    text-align: center;
+    background: #bd9338;
+    border-bottom: 0;
+    font-family: 'Goudy Bookletter 1911', serif;
+  }
+
+  #image-portfolio {
+    width: 100%;
+    height: 400px;
+    border: 0 none;
+    opacity: 0.8;
+  }
+
+/* CSS for Contact */
+#contact-header{
+    margin-top: 1em;
+    font-family: 'Goudy Bookletter 1911', serif;
+}
+
+#logos-section {
+    margin-top: 4em;
+    size: 100px;
+    text-align: center;
+    word-spacing: 3em;
+    line-height: 120%;  
+}
+
+.logos{
+    color: rgb(189, 168, 50);
+}
+/* general */
+.container {
+    text-align: center;
+}
