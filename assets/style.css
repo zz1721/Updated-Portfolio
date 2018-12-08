@@ -111,6 +111,9 @@
 .example:nth-child(even) {
     margin-right: 40px;
   }
+  .example:nth-child(odd) {
+    margin-right: 40px;
+  }
 
 .example button {
     position: sticky;
